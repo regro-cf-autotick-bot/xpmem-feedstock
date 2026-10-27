@@ -13,7 +13,7 @@ source:
   sha256: 738c70041ce09dcc66b64d80aebc1479e779efe12a9c02217fba610e2ae61f18
 
 build:
-  number: 0
+  number: 1
   script: build.sh
   skip:
     - osx
